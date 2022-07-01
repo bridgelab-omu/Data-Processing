@@ -24,7 +24,7 @@
 ## Experment Data Processing
 
 Automatic data processing Using by MATLAB  
-通过Matlab实现数据的自动整理
+MATLABを用いてデータの自動整理
 
 
 目前完成：
